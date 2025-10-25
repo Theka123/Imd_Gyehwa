@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UnrealEngine/IMD_Gyehwa/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"E:/UnrealEngine/IMD_Gyehwa/Content/00_MY/00_Level/L_main.umap",
+				"E:/UnrealEngine/IMD_Gyehwa/Content/00_MY/00_Level/L_def.umap",
+				"E:/UnrealEngine/IMD_Gyehwa/Content/00_MY/01_BP/BP_Grab.uasset",
+				"E:/UnrealEngine/IMD_Gyehwa/Content/00_MY/01_BP/BP_VRPawn.uasset",
+				"E:/UnrealEngine/IMD_Gyehwa/Content/00_MY/03_Materials/01_Color/M_Green.uasset",
+				"E:/UnrealEngine/IMD_Gyehwa/Content/00_MY/03_Materials/01_Color/M_White.uasset",
+				"E:/UnrealEngine/IMD_Gyehwa/Content/00_MY/01_BP/BP_Grab1.uasset",
+				"E:/UnrealEngine/IMD_Gyehwa/Content/00_MY/03_Materials/01_Color/M_Blue.uasset",
+				"E:/UnrealEngine/IMD_Gyehwa/Content/00_MY/03_Materials/01_Color/M_Pink.uasset",
+				"E:/UnrealEngine/IMD_Gyehwa/Content/00_MY/03_Materials/01_Color/M_Yellow.uasset",
+				"E:/UnrealEngine/IMD_Gyehwa/Content/00_MY/01_Level/L_def.umap",
+				"E:/UnrealEngine/IMD_Gyehwa/Content/00_MY/01_Level/L_main.umap"
+			]
+		}
+	]
+}
